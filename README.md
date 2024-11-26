@@ -24,7 +24,7 @@
 
 ## 📫 Let's Connect!  
 - **Email:** [arthvansola@gmail.com](mailto:arthvansola@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/arthvansola](www.linkedin.com/in/arth-m-ab6629256)  
+- **LinkedIn:** [linkedin.com/in/arthvansola]([www.linkedin.com/in/arth-m-ab6629256](https://www.linkedin.com/in/arth-m-ab6629256/))  
 - **Portfolio:** [arthvansola.dev](https://arthvansola.dev) _(coming soon!)_
 - **Twitter(X):** [x.com](https://x.com/ArthM3333)  
 
