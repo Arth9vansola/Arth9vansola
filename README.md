@@ -6,7 +6,7 @@
 ---
 
 ## About Me  
-- 🌱 Currently honing my skills in ****, **python**, **javascript**, and other modern web development technologies.  
+- 🌱 Currently honing my skills in  **python**, **javascript**, and other modern web development technologies.  
 - 🔭 Working on a **some sites** to enhance my development expertise.  
 - 🎯 Passionate about **problem-solving** and building efficient, scalable solutions.  
 
