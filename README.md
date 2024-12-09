@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arth9vansola&label=Profile%20views&color=0e75b6&style=flat" alt="arth9vansola" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arth9vansola" alt="arth9vansola" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/arth m." target="blank"><img src="https://img.shields.io/twitter/follow/arth m.?logo=twitter&style=for-the-badge" alt="arth m." /></a> </p>
 
 - 🔭 I’m currently working on [devil_ai](https://github.com/Arth9vansola/devil_ai)
