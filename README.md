@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif?cid=790b7611ddqxk8unwauchud5vm3677m1ofb6hsjwxogcnh9j&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="400" width="800" src="https://media.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif?cid=790b7611ddqxk8unwauchud5vm3677m1ofb6hsjwxogcnh9j&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 <h1 align="center">Hi 👋, I'm Arth Vansola</h1>
 <h3 align="center">A passionate full stack developer from India and enthusiast of learning new tech stack and also explorer by heart</h3>
