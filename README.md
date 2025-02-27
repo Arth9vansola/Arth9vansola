@@ -2,7 +2,7 @@
   <img height="400" width="800" src="https://media.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif?cid=790b7611ddqxk8unwauchud5vm3677m1ofb6hsjwxogcnh9j&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 <h1 align="center">Hi 👋, I'm Arth Vansola</h1>
-<h3 align="center">A passionate full stack developer from India and enthusiast of learning new tech stack and also explorer by heart</h3>
+<h3 align="center">A passionate full stack developer from Planet Earth and enthusiast of learning new tech stack </h3>
 <p align="left"> <a href="https://twitter.com/arth m." target="blank"><img src="https://img.shields.io/twitter/follow/arth m.?logo=twitter&style=for-the-badge" alt="arth m." /></a> </p>
 
 - 🔭 I’m currently working on [devil_ai](https://github.com/Arth9vansola/devil_ai)
