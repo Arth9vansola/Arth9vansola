@@ -27,7 +27,7 @@
   <a href="https://twitter.com/arthm_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/arthm" target="blank">
+  <a href="https://www.linkedin.com/in/arth-vansola-ab6629256/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://kaggle.com/arthvansola" target="blank">
