@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Arth Vansola</h1>
-<h3 align="center">A passionate full stack developer from Planet Earth and enthusiast of learning new tech stack</h3>
+<h3 align="center">A passionate full stack developer and AI/ML enthusiast from Planet Earth and enthusiast of learning new tech stack</h3>
 
 <p align="left">
   <a href="https://twitter.com/arthm_" target="blank">
