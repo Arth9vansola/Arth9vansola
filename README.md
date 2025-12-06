@@ -73,3 +73,27 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arth9vansola&show_icons=true&locale=en&layout=compact" alt="arth9vansola" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=arth9vansola&show_icons=true&locale=en" alt="arth9vansola" /></p>
+
+---
+
+<!-- Industry-Relevant & Trending Section -->
+
+<h2 align="center">🚀 What I'm Excited About in 2025</h2>
+
+<ul>
+  <li>🔮 Exploring Generative AI and Large Language Models for solving real business problems (OpenAI, VertexAI).</li>
+  <li>☁️ Building cloud-native apps and full stack solutions leveraging AWS, Next.js, and React.</li>
+  <li>🤖 Implementing MLOps pipelines for robust machine learning deployment (Python, Docker, CI/CD).</li>
+  <li>🛡️ Learning about AI Ethics and Explainable AI for enterprise applications.</li>
+  <li>📝 Recent industry certifications: <b>AWS Certified Cloud Practitioner (2025)</b>, <b>Google Data Engineer (in-progress)</b>.</li>
+  <li>🏆 Hackathon Finalist at <b>AI4India 2024</b> (Healthcare ML project with deployment on GCP).</li>
+  <li>🌐 Open source contributor: Tuning models and building scalable APIs in trending repositories.</li>
+  <li>🧩 Currently collaborating on projects involving <b>LangChain</b>, <b>Next.js 14</b>, and <b>Serverless Functions</b>.</li>
+</ul>
+
+---
+
+<h2 align="center">Let's Connect & Collaborate!</h2>
+<p align="center">
+  <b>I'm always looking to connect with fellow developers, AI/ML enthusiasts, and innovators. Interested in working together? DM me or drop a message on LinkedIn!</b>
+</p>
