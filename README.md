@@ -71,9 +71,6 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arth9vansola&show_icons=true&locale=en&layout=compact" alt="arth9vansola" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=arth9vansola&show_icons=true&locale=en" alt="arth9vansola" /></p>
-
 ---
 
 <!-- Industry-Relevant & Trending Section -->
