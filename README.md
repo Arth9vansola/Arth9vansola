@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🔭 My [Portfolio](https://arth-portfolio-red.vercel.app/)  
+- 🔭 My [Portfolio](https://arthvansola.tech/)  
 - 🌱 I’m currently learning **React.js, Python(advance), DSA**  
 - 📫 How to reach me **arthvansola@gmail.com**  
 - ⚡ Fun fact **I think I am very good at making friends and working with them as a team**
@@ -82,13 +82,10 @@
 
 <ul>
   <li>🔮 Exploring Generative AI and Large Language Models for solving real business problems (OpenAI, VertexAI).</li>
-  <li>☁️ Building cloud-native apps and full stack solutions leveraging AWS, Next.js, and React.</li>
   <li>🤖 Implementing MLOps pipelines for robust machine learning deployment (Python, Docker, CI/CD).</li>
   <li>🛡️ Learning about AI Ethics and Explainable AI for enterprise applications.</li>
-  <li>📝 Recent industry certifications: <b>AWS Certified Cloud Practitioner (2025)</b>, <b>Google Data Engineer (in-progress)</b>.</li>
-  <li>🏆 Hackathon Finalist at <b>AI4India 2024</b> (Healthcare ML project with deployment on GCP).</li>
-  <li>🌐 Open source contributor: Tuning models and building scalable APIs in trending repositories.</li>
-  <li>🧩 Currently collaborating on projects involving <b>LangChain</b>, <b>Next.js 14</b>, and <b>Serverless Functions</b>.</li>
+  <li>🏆 top 20 finalist team in virtual round at <b>odooxamalthea'25</b> (Expense management website).</li>
+  <li>🧩 Currently collaborating on projects involving <b>Machine Learning</b>, <b>Deep Learning</b>, and <b>Computer Vision</b>.</li>
 </ul>
 
 ---
