@@ -12,7 +12,7 @@
 </p>
 
 - 🔭 My [Portfolio](https://arthvansola.tech/)  
-- 🌱 I’m currently learning **React.js, Python(advance), DSA**  
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Computer Vision, Robotics, Python(advance), DSA**  
 - 📫 How to reach me **arthvansola@gmail.com**  
 - ⚡ Fun fact **I think I am very good at making friends and working with them as a team**
 
